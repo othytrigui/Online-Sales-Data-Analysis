@@ -24,12 +24,12 @@ Matplotlib
 
 ## Key Findings
 
-Customers can be segmented into five distinct LRFM groups:
-LRFM: Highly valuable customers with frequent, recent purchases and high spending
-lrFm: Low lifetime value, infrequent purchases, older purchases, low spending
-LRfm: High lifetime value, infrequent purchases, recent purchases, low spending
-lRfm: Low lifetime value, infrequent purchases, recent purchases, low spending
-lrfm: Least valuable customers with infrequent, older purchases and low spending
+Customers can be segmented into five distinct LRFM groups:\n
+- LRFM: Highly valuable customers with frequent, recent purchases and high spending
+- lrFm: Low lifetime value, infrequent purchases, older purchases, low spending
+- LRfm: High lifetime value, infrequent purchases, recent purchases, low spending
+- lRfm: Low lifetime value, infrequent purchases, recent purchases, low spending
+- lrfm: Least valuable customers with infrequent, older purchases and low spending
 
 ## Recommendations
 
